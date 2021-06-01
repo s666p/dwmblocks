@@ -1,5 +1,5 @@
 /* macro for conveniently specifying path below */
-#define PATH(name)                      "<path to the folder containing block scripts>/"name
+#define PATH(name)                      "/home/punk/dev/dwmblocks/scripts/"name
 
 //Modify this file to change what commands output to your statusbar, and recompile using the make command.
 static const Block blocks[] = {
